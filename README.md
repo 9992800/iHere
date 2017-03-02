@@ -1,1 +1,2 @@
 # iHere
+Using ibeacons protocol to locate where you are and also tell you what you are watching an where you are visiting if there are ibeacons devices setup under your target/destination. we also need a server side to bind the location and ibeacons devices, and save the relationship in to database. Then when you use this 'iHere' APP to download the relationship data and voice data, you can make it.
